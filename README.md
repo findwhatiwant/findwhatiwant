@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm studying in Soongsil University
+
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=00599C"/></a>
+
