@@ -1,4 +1,7 @@
-### Hi there 👋
+<h1>Findwhatiwant</h1>
+
+<h3>Hello, My name is Woosik joe(cho)</h3>
+<br>
 
 <!--
 **findwhatiwant/findwhatiwant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +19,11 @@ Here are some ideas to get you started:
 -->
 
 I'm studying in Soongsil University
+
+<h3>📧Email</h3>
+<h4>jws0041@naver.com</h4>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNT47rIkCfW0wqWSn5jI_ODqWJ-GHC8ho0Fw&usqp=CAU">
 
 
 <h2>Tech Stack</h2>
