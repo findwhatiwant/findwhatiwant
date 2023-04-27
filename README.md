@@ -23,8 +23,7 @@ I'm studying in Soongsil University
 <h3>📧Email</h3>
 <h4>jws0041@naver.com</h4>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={handle})](https://solved.ac/{jws0041})
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jws0041)](https://solved.ac/jws0041/)
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNT47rIkCfW0wqWSn5jI_ODqWJ-GHC8ho0Fw&usqp=CAU">
 
