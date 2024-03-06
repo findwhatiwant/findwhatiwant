@@ -3,6 +3,8 @@
 <h3>Hello, My name is Woosik joe(cho)</h3>
 <br>
 
+<h4>(But doing national defense duty now)</h4>
+
 <!--
 **findwhatiwant/findwhatiwant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
